@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var justLabel: UILabel!
     @IBOutlet weak var imageView: UIImageView!
     
-    let ballArray = ["ball01","ball02","ball03","ball04","ball05","ball06","ball01","ball07","ball08","ball09","ball04","ball10","ball11","ball09","ball12","ball13","ball14"]
+    let ballArray = ["ball01","ball02","ball03","ball04","ball05","ball06","ball07","ball04","ball08","ball09","ball10","ball11","ball09","ball12","ball13","ball14"]
     var rndmNum : Int = 0
     
     override func viewDidLoad() {
